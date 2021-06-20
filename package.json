@@ -1,0 +1,22 @@
+{
+  "name": "tw-bookmark-lp",
+  "version": "1.0.0",
+  "description": "Modern landing page with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build:tw": "tailwind build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzumi/tw-bookmark-lp.git"
+  },
+  "author": "Bogdan Morozyuk <bogdan7morozyuk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuzumi/tw-bookmark-lp/issues"
+  },
+  "homepage": "https://github.com/yuzumi/tw-bookmark-lp#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.2"
+  }
+}
